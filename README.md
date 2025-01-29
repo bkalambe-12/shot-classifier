@@ -13,4 +13,4 @@ This project implements a Python-based cricket shot classifier using NumPy, Matp
 * NumPy
 * Matplotlib
 * Pandas
-* ML library: Tensorflow
+* Tensorflow
